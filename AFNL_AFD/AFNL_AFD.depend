@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556181541 source:e:\programming\fmi\lfa\tema2 - afnl_afd\afnl_afd\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+

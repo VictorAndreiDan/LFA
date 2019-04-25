@@ -1,0 +1,17 @@
+7 2
+2 3 42 1 0 42 2 42
+2   42   42     42
+4   42 3 42     42
+5   42 6 42 3 6 42
+6   42 6 42  5  42
+2 6 42 6 42     42
+ 6  42   42  6  42
+
+//modalitate de introducere:
+//poti sa inlocuiesti direct aici, algoritmul citeste exact atatea noduri
+//randul 1: nr_noduri si nr_ramuri
+//restul: nodurile cu legaturile lor sub forma:
+//in cine intra prin lambda 42 in cine intra prin a 42 in cine intra prin b 42 si tota asa in functie de cate ramuri sunt
+//42 semnalizeaza sfarsitul unei ramuri si inceputul alateia
+//de exemplu: intre primul 42 si al-2lea 42 se afla legaturile nodului in care intra prin ramura 1 sau 'a'
+
